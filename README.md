@@ -1,6 +1,6 @@
 # Hi 👋, I'm Om Mahajan
 
-🎓 **B.Tech CSE Student** | 💻 **Problem Solver** | 🚀 **Aspiring Software Engineer**
+🎓 **B.Tech AI&DS Student** | 💻 **Problem Solver** | 🚀 **Aspiring Software Engineer**
 
 ---
 
@@ -60,7 +60,7 @@
 ## 📫 Connect With Me
 
 * 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
-* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+* ✉️ Email: [your-email@example.com](ommahajan9890@gmail.com)
 * 🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
