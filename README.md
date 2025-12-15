@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Om Mahajan
 
-<!--
-**JakeWhart/JakeWhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student** | 💻 **Problem Solver** | 🚀 **Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🔹 Passionate about **Data Structures & Algorithms** and **Core Programming**
+* 🔹 Comfortable with **C / C++**, currently strengthening **DSA** and **competitive programming** skills
+* 🔹 Exploring **Computer Vision**, **Deep Learning**, and **Data Engineering** concepts
+* 🔹 Hands-on with **Azure Fundamentals**, **Excel Automation**, and **Power BI/Tableau basics**
+* 🔹 Interested in building **real-world projects** and clean, efficient solutions
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+`C` `C++` `Python` `Java (Basics)`
+
+**Core CS:**
+`Data Structures` `Algorithms` `OOP` `Computer Organization (8085)`
+
+**AI / ML / CV:**
+`OpenCV` `CNN` `Feature Matching (SIFT, SURF, BRISK)` `GANs (Basics)`
+
+**Cloud & Tools:**
+`Microsoft Azure` `Git & GitHub` `Power BI` `Tableau`
+
+---
+
+## 📂 What You’ll Find Here
+
+* 📌 **DSA & Competitive Programming** solutions
+* 📌 **C/C++ practice programs** and lab work
+* 📌 **Engineering Mathematics & Physics** problem-solving code
+* 📌 **Mini projects** (Vision, Automation, Simulations)
+* 📌 Clean, well-documented code for learning and reference
+
+---
+
+## 🌱 Currently Learning
+
+* 🔸 Advanced **DSA** (Binary Search, STL, Graphs)
+* 🔸 **Computer Vision & Deep Learning** architectures
+* 🔸 **Cloud fundamentals** and deployment basics
+* 🔸 Writing better **technical documentation**
+
+---
+
+## 🎯 Goals
+
+* ✅ Strong foundation in **DSA & System Design**
+* ✅ Build impactful **open-source & academic projects**
+* ✅ Prepare for **internships, hackathons, and GSoC-style programs**
+
+---
+
+## 📫 Connect With Me
+
+* 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
+* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+* 🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+⭐ *If you find my repositories helpful, feel free to star them!*
