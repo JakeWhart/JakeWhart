@@ -59,9 +59,9 @@
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
+* 💼 LeetCode: (https://leetcode.com/u/OM_MAHAJAN9890/)
 * ✉️ Email: [your-email@example.com](ommahajan9890@gmail.com)
-* 🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 🔗 LinkedIn: [https://linkedin.com/in/your-profile](www.linkedin.com/in/om-mahajan9890)
 
 ---
 
