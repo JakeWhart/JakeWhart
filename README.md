@@ -60,8 +60,8 @@
 ## 📫 Connect With Me
 
 * 💼 LeetCode: (https://leetcode.com/u/OM_MAHAJAN9890/)
-* ✉️ Email: [your-email@example.com](ommahajan9890@gmail.com)
-* 🔗 LinkedIn: [https://linkedin.com/in/your-profile](www.linkedin.com/in/om-mahajan9890)
+* ✉️ Email: (ommahajan9890@gmail.com)
+* 🔗 LinkedIn:(www.linkedin.com/in/om-mahajan9890)
 
 ---
 
